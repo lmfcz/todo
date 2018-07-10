@@ -9,7 +9,7 @@ export default {
 	name: 'APP',
 	data() {
 		return {
-			msg: 'Hello'
+			msg: 'Hello!VUE.JS!!!!!!'
 		}
 	}
 }
